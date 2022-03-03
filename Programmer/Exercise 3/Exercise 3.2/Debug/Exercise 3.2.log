@@ -1,0 +1,7 @@
+﻿  program1.cpp
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Exercise 3.2\program1.cpp(9,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Exercise 3.2\program1.cpp(11,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Exercise 3.2\program1.cpp(14,11): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Exercise 3.2\program1.cpp(14,11): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Exercise 3.2\program1.cpp(14,11): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  Exercise 3.2.vcxproj -> C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 3\Debug\Exercise 3.2.exe

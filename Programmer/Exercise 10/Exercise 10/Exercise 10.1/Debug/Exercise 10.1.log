@@ -1,0 +1,10 @@
+﻿  Queue.cpp
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(39,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(70,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(95,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+  test_Queue.cpp
+  Generating Code...
+C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Exercise 10.1\Queue.cpp(53): warning C4715: 'Queue::operator+=': not all control paths return a value
+  Exercise 10.1.vcxproj -> C:\Users\revil\Desktop\OOP\Exercise 10\Exercise 10\Debug\Exercise 10.1.exe

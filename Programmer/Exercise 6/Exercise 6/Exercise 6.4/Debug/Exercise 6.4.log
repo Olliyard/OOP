@@ -1,0 +1,3 @@
+﻿  test_Sladrehank.cpp
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 6\Exercise 6\Exercise 6.4\test_Sladrehank.cpp(63,16): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  Exercise 6.4.vcxproj -> C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 6\Exercise 6\Debug\Exercise 6.4.exe

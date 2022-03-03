@@ -1,0 +1,20 @@
+﻿  test_CircularBuffer.cpp
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(47,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(45): message : while compiling class template member function 'void CircularBuffer<char>::print(void) const'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\test_CircularBuffer.cpp(7): message : see reference to function template instantiation 'void CircularBuffer<char>::print(void) const' being compiled
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\test_CircularBuffer.cpp(5): message : see reference to class template instantiation 'CircularBuffer<char>' being compiled
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(36,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(34): message : while compiling class template member function 'type CircularBuffer<type>::meanValue(void) const'
+          with
+          [
+              type=char
+          ]
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\test_CircularBuffer.cpp(22): message : see reference to function template instantiation 'type CircularBuffer<type>::meanValue(void) const' being compiled
+          with
+          [
+              type=char
+          ]
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(15,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\CircularBuffer.h(10): message : while compiling class template member function 'CircularBuffer<char>::CircularBuffer(int)'
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.7\test_CircularBuffer.cpp(5): message : see reference to function template instantiation 'CircularBuffer<char>::CircularBuffer(int)' being compiled
+  Exercise 7.7.vcxproj -> C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Debug\Exercise 7.7.exe

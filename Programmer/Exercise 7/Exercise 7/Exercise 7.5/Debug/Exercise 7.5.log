@@ -1,0 +1,3 @@
+﻿  test_Lifoqueue.cpp
+C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Exercise 7.5\test_Lifoqueue.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Exercise 7.5.vcxproj -> C:\Users\Oliver\Desktop\OOP\Programmer\Exercise 7\Exercise 7\Debug\Exercise 7.5.exe
