@@ -1,0 +1,5 @@
+﻿  Flyttebil.cpp
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 1\Flyttebil.cpp(13,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  test_Flyttebil.cpp
+  Generating Code...
+  Opgave 1.vcxproj -> C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Debug\Opgave 1.exe

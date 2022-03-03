@@ -1,0 +1,17 @@
+﻿  Dato.cpp
+  Feriebolig.cpp
+  Sommerhus.cpp
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\Sommerhus.cpp(26,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_Sommerhus.cpp
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,12): error C2259: 'Sommerhus': cannot instantiate abstract class
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\Sommerhus.h(6): message : see declaration of 'Sommerhus'
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,12): message : due to following members:
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,12): message : 'int Feriebolig::beregnAfgift(void)': is abstract
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\Feriebolig.h(15): message : see declaration of 'Feriebolig::beregnAfgift'
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,17): error C2259: 'Sommerhus': cannot instantiate abstract class
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\Sommerhus.h(6): message : see declaration of 'Sommerhus'
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,17): message : due to following members:
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,17): message : 'int Feriebolig::beregnAfgift(void)': is abstract
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\Feriebolig.h(15): message : see declaration of 'Feriebolig::beregnAfgift'
+C:\Users\Oliver\Desktop\S2021_Oliver_Malling_202005265\Opgave 2\test_Sommerhus.cpp(5,69): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
